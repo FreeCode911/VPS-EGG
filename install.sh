@@ -136,9 +136,9 @@ if [ ! -e "$ROOTFS_DIR/.installed" ]; then
     # Display the menu
     echo -e "${GREEN}╭────────────────────────────────────────────────────────────────────────────────╮${NC}"
     echo -e "${GREEN}│                                                                                │${NC}"
-    echo -e "${GREEN}│                             LykCloud VPS                                │${NC}"
+    echo -e "${GREEN}│                                    LykCloud VPS                                │${NC}"
     echo -e "${GREEN}│                                                                                │${NC}"
-    echo -e "${GREEN}│               {RED}© 2021 - 2024 ${YELLOW}legendyt4k${GREEN}                               │${NC}"
+    echo -e "${GREEN}│                            {RED}© 2021 - 2024 ${YELLOW}legendyt4k${GREEN}                       │${NC}"
     echo -e "${GREEN}│                                                                                │${NC}"
     echo -e "${GREEN}╰────────────────────────────────────────────────────────────────────────────────╯${NC}"
     echo "                                                                                               "
