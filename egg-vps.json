@@ -5,8 +5,8 @@
         "update_url": null
     },
     "exported_at": "2024-08-21T09:48:24+03:00",
-    "name": "VPS - Egg",
-    "author": "mrnitro2017@gmail.com",
+    "name": "VPS Hosting",
+    "author": "hello@lykcloud.com",
     "description": "Run a VPS in pterodactyl!",
     "features": null,
     "docker_images": {
